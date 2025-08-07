@@ -1,4 +1,4 @@
-# CISA Releases New ICS Advisories - 2024MMDD00\#
+# CISA Releases New ICS Advisories - 20250219001
 
 ## Overview
 
@@ -6,11 +6,13 @@ CISA has released multiple advisories for Industrial Control Systems (ICS) relat
 
 ## What is vulnerable?
 
-| Vendor | Advisory                          |
-| ------ | --------------------------------- |
-| Vendor | [ICSA](URL)                       |
-| Vendor | [ICSA1](URL1) </br> [ICSA2](URL2) |
+| Vendor              |
+| ------------------- |
+| Delta Electronics   |
+| Rockwell Automation |
 
 ## Recommendation
 
 The WA SOC recommends administrators review relevant advisories and apply the recommended actions to all affected devices.
+
+- CISA: <https://www.cisa.gov/news-events/alerts/2025/02/18/cisa-releases-two-industrial-control-systems-advisories>

@@ -76,6 +76,7 @@ nav:
 - Connecting to the WA SOC:
   - SOC Onboarding: onboarding.md
   - Sentinel Guidance: onboarding/sentinel-guidance.md
+  - Honey Trap (Pilot): onboarding/honey-traps.md
 - Advisories (TLP:CLEAR): advisories.md
 - ACSC Strategies to Mitigate: guidelines/further-five.md
 - Threat Hunting (TTPs): guidelines/TTP_Hunt/ttp-detection-guidelines.md
@@ -85,14 +86,17 @@ nav:
   - Vulnerability Management: baselines/vulnerability-management.md
 - Guidelines:
   - Incident Reporting: guidelines/incident-reporting.md
-  - Vendor Management: guidelines/supply-chain-risk-mgmt.md
+  - Cyber Security Playbooks: 'guidelines/playbooks.md'
   - Network Management: guidelines/network-management.md
   - Patch Management: guidelines/patch-management.md
   - Configuration Assessment: guidelines/secure-configuration.md
   - Annual Implementation Report: guidelines/annual-implementation-reporting.md
+  - Essential Eight: guidelines/e8-assessment.md
 - Training:
   - Security Analyst Induction: training/analyst-induction.md
   - Azure Basics: training/azure-basics.md
+  - DevSecOps Induction: training/devsecops-induction.md
+  - Sentinel 101: training/sentinel-101.md
 - WA Gov Links:
   - Incident Reporting Portal (IRP): https://irp.dpc.wa.gov.au
   - Digital Government (DGOV): https://www.wa.gov.au/organisation/department-of-the-premier-and-cabinet/office-of-digital-government

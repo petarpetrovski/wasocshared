@@ -17,6 +17,7 @@ All agencies should have a **Cyber Incident Response Plan** ([ACSC Practitioner 
 ACSC also published an excellent [ACSC Cyber Incident Response Plan - Word Template - March 2023 (docx)](https://www.cyber.gov.au/sites/default/files/2023-03/ACSC-Cyber-Incident-Response-Plan-Template.docx) suitable for tailoring to an organisations specific context. The guidance includes some highly relevant appendices:
 
 !!! abstract "Incident Response Appendices"
+
     - Appendix A - Terminology and definitions
     - Appendix B - Cyber Security Incident Response Readiness Checklist
     - Appendix C - ASD cyber security incident triage questions
@@ -36,7 +37,7 @@ ACSC also published an excellent [ACSC Cyber Incident Response Plan - Word Templ
 ## 2. Getting access
 
 - Agencies can request access by emailing [cybersecurity@dpc.wa.gov.au](mailto:cybersecurity@dpc.wa.gov.au).
-- Agencies with existing access can use the [Request access to the Incident Reporting Portal](https://wasoc.atlassian.net/servicedesk/customer/portal/2/group/1/create/8) WASOC IRP form.
+- Agencies with existing access can use the [Request access to the Incident Reporting Portal](https://wasoc.atlassian.net/servicedesk/customer/portal/2/group/1/create/103) WASOC IRP form.
 
 ### 2.1. Logging in to the WASOC IRP
 
